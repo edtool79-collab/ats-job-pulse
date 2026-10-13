@@ -1,0 +1,4 @@
+{
+    "companies": ["stripe.com", "ramp.com", "linear.app"],
+    "output_mode": "summary_only"
+}

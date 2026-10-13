@@ -1,0 +1,6 @@
+{
+    "companies": ["stripe.com", "ramp.com", "linear.app"],
+    "only_changes": true,
+    "title_keywords": ["engineer"],
+    "state_id": "eng-watchlist"
+}

@@ -1,0 +1,8 @@
+{
+    "companies": ["notion.so", "figma.com", "huggingface.co"],
+    "output_mode": "jobs_only",
+    "remote_only": true,
+    "technologies": ["Python", "Kubernetes", "LLMs"],
+    "max_jobs_per_company": 10,
+    "track_diff": false
+}
